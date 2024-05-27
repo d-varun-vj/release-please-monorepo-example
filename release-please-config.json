@@ -5,7 +5,7 @@
   "separate-pull-requests": true,
   "packages": {
     "hello-react": {
-      "path": "hello-react",
+      "path": "hello-react1",
       "release-type": "node"
     },
     "hello-rust": {
